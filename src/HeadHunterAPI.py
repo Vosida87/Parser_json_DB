@@ -7,7 +7,7 @@ class HeadHunterAPI(JobCollector):
     def __init__(self, query_word):
         self.query_word = query_word
         self.url = "https://api.hh.ru/vacancies"
-        self.params = {"per_page": 1,
+        self.params = {"per_page": 25,
                        "text": self.query_word,
                        }
         self.headers = {"User-Agent": "MyApp 1.0"}
@@ -21,7 +21,27 @@ class HeadHunterAPI(JobCollector):
             self.vacancies.append(vacancy)
         return json_response
 
+    def formate_info(self):
+        formatted_vacancies = []
+        for vacancy in self.vacancies:
+            formatted_vacancy = {
+                'website': 'HeadHunter',
+                'name': vacancy['name'],
+                'url': vacancy['alternate_url'],
+                'experience': vacancy['experience']['name'],
+            }
+            if vacancy['salary'] is not None:
+                formatted_vacancy['payment_from'] = vacancy['salary']['from']
+                formatted_vacancy['payment_to'] = vacancy['salary']['to']
+                formatted_vacancy['currency'] = vacancy['salary']['currency']
+            else:
+                formatted_vacancy['payment_from'] = None
+                formatted_vacancy['payment_to'] = None
+                formatted_vacancy['currency'] = None
+            formatted_vacancies.append(formatted_vacancy)
+        return formatted_vacancies
+
 
 hh = HeadHunterAPI("Python")
 hh.get_request()
-print(hh.vacancies)
+print(hh.formate_info())
