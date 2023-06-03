@@ -11,3 +11,7 @@ class JobCollector(ABC):
         :return: request запрос
         """
         pass
+
+
+class JsonCreator(ABC):
+    pass

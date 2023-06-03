@@ -1,6 +1,3 @@
-import json
-
-
 class Vacancy:
     def __init__(self, vacancy):
         self.website = vacancy['website']
