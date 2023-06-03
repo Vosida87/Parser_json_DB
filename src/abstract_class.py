@@ -3,7 +3,7 @@ from abc import ABC, abstractmethod
 
 class JobCollector(ABC):
     """
-    Абстрактный класс для работы с вакансиями
+    Абстрактный класс для получения вакансий
     """
     @abstractmethod
     def get_request(self):
