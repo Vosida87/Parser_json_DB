@@ -19,7 +19,6 @@ class SuperJobAPI(JobCollector):
     def get_request(self):
         response = requests.get(self.url, params=self.params, headers=self.__headers)
         json_response = response.json()['objects']
-        # json_info = json.dumps(json_response, indent=2, ensure_ascii=False)
         for vacancy in json_response:
             self.vacancies.append(vacancy)
         return json_response

@@ -11,13 +11,4 @@ class Vacancy:
         self.payment_to = vacancy['payment_to']
         self.currency = vacancy['currency']
 
-        self.data = {'website': self.website,
-                     'name': self.name,
-                     'url': self.url,
-                     'experience': self.experience,
-                     'payment_from': self.payment_from,
-                     'payment_to': self.payment_to,
-                     'currency': self.currency,
-                     }
-
-        Vacancy.all.append(self.data)
+        Vacancy.all.append(vacancy)
