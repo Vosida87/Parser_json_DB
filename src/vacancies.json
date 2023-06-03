@@ -1,1 +1,452 @@
-[]
+[
+    {
+        "website": "HeadHunter",
+        "name": "Дизайнер звука",
+        "url": "https://hh.ru/vacancy/80146081",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": 100,
+        "payment_to": 1000,
+        "currency": "USD"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Стажер UX/UI Дизайнер",
+        "url": "https://hh.ru/vacancy/81362659",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Ассистент дизайнера",
+        "url": "https://hh.ru/vacancy/81435351",
+        "experience": "Нет опыта",
+        "payment_from": 40000,
+        "payment_to": null,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "UI/UX Designer",
+        "url": "https://hh.ru/vacancy/81223042",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Дизайнер интерфейсов (UX/UI)",
+        "url": "https://hh.ru/vacancy/81432514",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Дизайнер-консультант",
+        "url": "https://hh.ru/vacancy/80887837",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": 90000,
+        "payment_to": 120000,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Junior дизайнер",
+        "url": "https://hh.ru/vacancy/81226828",
+        "experience": "Нет опыта",
+        "payment_from": 40000,
+        "payment_to": null,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Помощник дизайнера",
+        "url": "https://hh.ru/vacancy/81331199",
+        "experience": "Нет опыта",
+        "payment_from": 70000,
+        "payment_to": null,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Junior Designer",
+        "url": "https://hh.ru/vacancy/81444210",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": 50000,
+        "payment_to": null,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Упаковщик-стикеровщик бренда одежды YOS DESIGN",
+        "url": "https://hh.ru/vacancy/80877330",
+        "experience": "Нет опыта",
+        "payment_from": 1000,
+        "payment_to": 1200,
+        "currency": "BYR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Дизайнер",
+        "url": "https://hh.ru/vacancy/81428574",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Дизайнер UX UI (Стажер / Junior)",
+        "url": "https://hh.ru/vacancy/80620615",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": 40000,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Графический дизайнер",
+        "url": "https://hh.ru/vacancy/81379975",
+        "experience": "Нет опыта",
+        "payment_from": 35000,
+        "payment_to": 80000,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Дизайнер-стажер",
+        "url": "https://hh.ru/vacancy/81234276",
+        "experience": "Нет опыта",
+        "payment_from": 55000,
+        "payment_to": null,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Дизайнер шаблонов для Canva",
+        "url": "https://hh.ru/vacancy/80616201",
+        "experience": "Нет опыта",
+        "payment_from": 1000,
+        "payment_to": 1200,
+        "currency": "USD"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Гейм-дизайнер",
+        "url": "https://hh.ru/vacancy/81472653",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Помощник дизайнера интерьера",
+        "url": "https://hh.ru/vacancy/80801428",
+        "experience": "Нет опыта",
+        "payment_from": 75000,
+        "payment_to": 150000,
+        "currency": "KZT"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Графический дизайнер",
+        "url": "https://hh.ru/vacancy/81475051",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": null,
+        "payment_to": 140000,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Графический дизайнер карточек товара (инфографика) WB, OZON, Яндекс Маркет, Сбермаркет",
+        "url": "https://hh.ru/vacancy/81092559",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": 25000,
+        "payment_to": null,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Младший UX/UI designer",
+        "url": "https://hh.ru/vacancy/80524215",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": 100000,
+        "payment_to": null,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Дизайнер",
+        "url": "https://hh.ru/vacancy/81474390",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": 60000,
+        "payment_to": 60000,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Веб-дизайнер junior (удаленно)",
+        "url": "https://hh.ru/vacancy/81299142",
+        "experience": "Нет опыта",
+        "payment_from": 35000,
+        "payment_to": null,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Помощник дизайнера интерьера",
+        "url": "https://hh.ru/vacancy/81383309",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": 50000,
+        "payment_to": 100000,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Game Designer (стажер)",
+        "url": "https://hh.ru/vacancy/71546404",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Ассистент дизайнера",
+        "url": "https://hh.ru/vacancy/80233447",
+        "experience": "Нет опыта",
+        "payment_from": 40000,
+        "payment_to": 70000,
+        "currency": "RUR"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Дизайнер наружной рекламы",
+        "url": "https://ulyanovsk.superjob.ru/vakansii/dizajner-naruzhnoj-reklamy-26583148.html",
+        "experience": "От 1 года",
+        "payment_from": 30000,
+        "payment_to": 50000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Ведущий продуктовый дизайнер UI/UX (Управление Платформенные решения)",
+        "url": "https://www.superjob.ru/vakansii/veduschij-produktovyj-dizajner-ui-45924873.html",
+        "experience": "От 3 лет",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Дизайнер интерьера",
+        "url": "https://tolyatti.superjob.ru/vakansii/dizajner-interera-46326224.html",
+        "experience": "От 1 года",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Графический дизайнер (Яндекс.Реклама)",
+        "url": "https://kaspijsk.superjob.ru/vakansii/graficheskij-dizajner-46428977.html",
+        "experience": "От 1 года",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Графический дизайнер (флексография)",
+        "url": "https://volgograd.superjob.ru/vakansii/graficheskij-dizajner-33203111.html",
+        "experience": "От 3 лет",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Менеджер-дизайнер",
+        "url": "https://vladimir.superjob.ru/vakansii/menedzher-dizajner-40329283.html",
+        "experience": "Не имеет значения",
+        "payment_from": 70000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Дизайнер-верстальщик",
+        "url": "https://www.superjob.ru/vakansii/dizajner-verstalschik-46190960.html",
+        "experience": "От 3 лет",
+        "payment_from": 70000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Дизайнер по упаковке, Специалист по допечатной подготовке, Менеджер по печати наклеек, Оператор печ",
+        "url": "https://podolsk.superjob.ru/vakansii/dizajner-po-upakovke-46360276.html",
+        "experience": "Без опыта",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Дизайнер-маркетолог",
+        "url": "https://www.superjob.ru/vakansii/dizajner-marketolog-46361252.html",
+        "experience": "От 3 лет",
+        "payment_from": 80000,
+        "payment_to": 80000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Web-дизайнер",
+        "url": "https://spb.superjob.ru/vakansii/web-dizajner-46361925.html",
+        "experience": "От 3 лет",
+        "payment_from": 23500,
+        "payment_to": 35000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Ландшафтный дизайнер",
+        "url": "https://www.superjob.ru/vakansii/landshaftnyj-dizajner-46402459.html",
+        "experience": "От 1 года",
+        "payment_from": 50000,
+        "payment_to": 70000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Дизайнер",
+        "url": "https://ekaterinburg.superjob.ru/vakansii/dizajner-46402966.html",
+        "experience": "От 1 года",
+        "payment_from": 40000,
+        "payment_to": 60000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Дизайнер по пошиву штор",
+        "url": "https://naro-fominsk.superjob.ru/vakansii/dizajner-po-poshivu-shtor-46477002.html",
+        "experience": "От 1 года",
+        "payment_from": 45000,
+        "payment_to": 55000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Графический дизайнер",
+        "url": "https://www.superjob.ru/vakansii/graficheskij-dizajner-37140494.html",
+        "experience": "От 1 года",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Инженер-конструктор / RTL Designer",
+        "url": "https://www.superjob.ru/vakansii/inzhener-konstruktor-45696324.html",
+        "experience": "От 6 лет",
+        "payment_from": 140000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Архитектор-дизайнер",
+        "url": "https://spb.superjob.ru/vakansii/arhitektor-dizajner-46179264.html",
+        "experience": "От 3 лет",
+        "payment_from": 60000,
+        "payment_to": 80000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Дизайнер-проектировщик",
+        "url": "https://www.superjob.ru/vakansii/dizajner-proektirovschik-46285053.html",
+        "experience": "От 1 года",
+        "payment_from": 0,
+        "payment_to": 90000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Менеджер-дизайнер по продажам кухонь на заказ",
+        "url": "https://nn.superjob.ru/vakansii/menedzher-dizajner-po-prodazham-kuhon-na-zakaz-46362292.html",
+        "experience": "Без опыта",
+        "payment_from": 65000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Графический дизайнер / Коммуникационный дизайнер",
+        "url": "https://www.superjob.ru/vakansii/graficheskij-dizajner-46426561.html",
+        "experience": "От 1 года",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Ведущий графический дизайнер / Бренд-дизайнер",
+        "url": "https://www.superjob.ru/vakansii/veduschij-graficheskij-dizajner-46449360.html",
+        "experience": "От 3 лет",
+        "payment_from": 100000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Дизайнер",
+        "url": "https://www.superjob.ru/vakansii/dizajner-46458346.html",
+        "experience": "От 3 лет",
+        "payment_from": 60000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Дизайнер мебели, менеджер по продажам",
+        "url": "https://ekaterinburg.superjob.ru/vakansii/dizajner-mebeli-46492507.html",
+        "experience": "Без опыта",
+        "payment_from": 25000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Web-дизайнер (полная занятость в офисе)",
+        "url": "https://www.superjob.ru/vakansii/web-dizajner-46493325.html",
+        "experience": "От 3 лет",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Креативный дизайнер",
+        "url": "https://www.superjob.ru/vakansii/kreativnyj-dizajner-46505849.html",
+        "experience": "Без опыта",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Дизайнер штор",
+        "url": "https://www.superjob.ru/vakansii/dizajner-shtor-32345799.html",
+        "experience": "От 1 года",
+        "payment_from": 70000,
+        "payment_to": 85000,
+        "currency": "rub"
+    }
+]

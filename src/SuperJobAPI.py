@@ -3,6 +3,10 @@ import requests
 import json
 
 class SuperJobAPI(JobCollector):
+    """
+    Класс для получения вакансий из superjob по api
+    инициализируется по ключевому слову
+    """
     def __init__(self, query_word):
         self.query_word = query_word
         self.url = "https://api.superjob.ru/2.0/vacancies/"
@@ -12,11 +16,17 @@ class SuperJobAPI(JobCollector):
         self.__headers = {"X-Api-App-Id": "v3.r.131154844.742728edb5e885278370f9864ac7066bd528c8c4.0c9796d081133d28c763dc0c7bf9742a3f645bc4"}
         self.vacancies = []
 
+    def __repr__(self):
+        return f"{self.__class__.__name__}('{self.query_word}', {int(self.url)}, {self.params})"
+
     @property
     def headers(self):
         return f'{self.__headers}'
 
     def get_request(self):
+        """
+        функция запроса, возвращает вакансии
+        """
         response = requests.get(self.url, params=self.params, headers=self.__headers)
         json_response = response.json()['objects']
         for vacancy in json_response:
@@ -24,6 +34,9 @@ class SuperJobAPI(JobCollector):
         return json_response
 
     def formate_info(self):
+        """
+        Форматируем в свой словарь, для дальнейшего объединения с HH API
+        """
         formatted_vacancies = []
         for vacancy in self.vacancies:
             formatted_vacancy = {

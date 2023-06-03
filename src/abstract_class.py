@@ -3,7 +3,7 @@ from abc import ABC, abstractmethod
 
 class JobCollector(ABC):
     """
-    Абстрактный класс для получения вакансий
+    Абстрактный класс для создания запроса
     """
     @abstractmethod
     def get_request(self):
@@ -14,7 +14,11 @@ class JobCollector(ABC):
 
 
 class FileWorker(ABC):
-
+    """
+    Абстрактный класс, для добавления вакансий в файл,
+    считывания вакансий с файла,
+    а также удаления файла
+    """
 
     @abstractmethod
     def add_vacancies(self):
