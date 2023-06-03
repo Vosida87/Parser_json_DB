@@ -1,0 +1,452 @@
+[
+    {
+        "website": "HeadHunter",
+        "name": "Python разработчик (Junior)",
+        "url": "https://hh.ru/vacancy/80456354",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": null,
+        "payment_to": 80000,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Стажер в команду тестирования",
+        "url": "https://hh.ru/vacancy/80610019",
+        "experience": "Нет опыта",
+        "payment_from": 40000,
+        "payment_to": 40000,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Стажер-разработчик / web-программист",
+        "url": "https://hh.ru/vacancy/81446355",
+        "experience": "Нет опыта",
+        "payment_from": 25000,
+        "payment_to": null,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Стажер в отдел тестирования",
+        "url": "https://hh.ru/vacancy/81376903",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/81433687",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": 40000,
+        "payment_to": null,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Разработчик/junior (офис)",
+        "url": "https://hh.ru/vacancy/81357710",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Стажер-разработчик Python",
+        "url": "https://hh.ru/vacancy/81429148",
+        "experience": "Нет опыта",
+        "payment_from": 25000,
+        "payment_to": null,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Intern / Junior Programmer (Python)",
+        "url": "https://hh.ru/vacancy/81481794",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Стажер в IT-компанию (с уклоном в python разработку)",
+        "url": "https://hh.ru/vacancy/81110673",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Pentester",
+        "url": "https://hh.ru/vacancy/81405171",
+        "experience": "Нет опыта",
+        "payment_from": 200000,
+        "payment_to": null,
+        "currency": "KZT"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Программист Python",
+        "url": "https://hh.ru/vacancy/81365356",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": 20000,
+        "payment_to": 85000,
+        "currency": "KGS"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "QA специалист (junior+)",
+        "url": "https://hh.ru/vacancy/80161811",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Python/Django разработчик",
+        "url": "https://hh.ru/vacancy/81365828",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Стажер-разработчик (Backend + Mobile)",
+        "url": "https://hh.ru/vacancy/81469659",
+        "experience": "Нет опыта",
+        "payment_from": 60000,
+        "payment_to": null,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Junior Python Developer",
+        "url": "https://hh.ru/vacancy/80695503",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Python Developer Trainee",
+        "url": "https://hh.ru/vacancy/81395917",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Data scientist (Департамент кредитных рисков)",
+        "url": "https://hh.ru/vacancy/81291903",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Стажер-разработчик",
+        "url": "https://hh.ru/vacancy/81367910",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "QA-специалист (Тестировщик)",
+        "url": "https://hh.ru/vacancy/81434626",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "JavaScript разработчик",
+        "url": "https://hh.ru/vacancy/81362339",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Стажер программирование python",
+        "url": "https://hh.ru/vacancy/81474189",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": 70000,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Продуктовый аналитик (Junior+)",
+        "url": "https://hh.ru/vacancy/81252794",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": 150000,
+        "payment_to": null,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Junior QA Engineer (Auto/Manual)",
+        "url": "https://hh.ru/vacancy/81407222",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": null,
+        "payment_to": 100000,
+        "currency": "RUR"
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Python developer",
+        "url": "https://hh.ru/vacancy/70093763",
+        "experience": "От 1 года до 3 лет",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "HeadHunter",
+        "name": "Младший инженер-тестировщик",
+        "url": "https://hh.ru/vacancy/79142076",
+        "experience": "Нет опыта",
+        "payment_from": null,
+        "payment_to": null,
+        "currency": null
+    },
+    {
+        "website": "SuperJob",
+        "name": "Аналитик данных",
+        "url": "https://www.superjob.ru/vakansii/analitik-dannyh-44488229.html",
+        "experience": "От 1 года",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Сетевой инженер",
+        "url": "https://yaroslavl.superjob.ru/vakansii/setevoj-inzhener-46360275.html",
+        "experience": "От 1 года",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Специалист службы поддержки с техническими знаниями (Браузер)",
+        "url": "https://schelkovo.superjob.ru/vakansii/specialist-sluzhby-podderzhki-s-tehnicheskimi-znaniyami-39820617.html",
+        "experience": "Не имеет значения",
+        "payment_from": 15000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Учитель информатики",
+        "url": "https://ekaterinburg.superjob.ru/vakansii/uchitel-informatiki-43496219.html",
+        "experience": "От 1 года",
+        "payment_from": 35000,
+        "payment_to": 70000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Менеджер по работе с клиентами",
+        "url": "https://perm.superjob.ru/vakansii/menedzher-po-rabote-s-klientami-44458424.html",
+        "experience": "Без опыта",
+        "payment_from": 35000,
+        "payment_to": 50000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Инженер-программист",
+        "url": "https://astrakhan.superjob.ru/vakansii/inzhener-programmist-43503556.html",
+        "experience": "Без опыта",
+        "payment_from": 34400,
+        "payment_to": 34400,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Главный специалист Отдела программой эксплуатации",
+        "url": "https://izhevsk.superjob.ru/vakansii/glavnyj-specialist-otdela-programmoj-ekspluatacii-43163788.html",
+        "experience": "От 3 лет",
+        "payment_from": 50000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Учитель по программированию",
+        "url": "https://andreevka.superjob.ru/vakansii/uchitel-po-programmirovaniyu-45698480.html",
+        "experience": "Без опыта",
+        "payment_from": 0,
+        "payment_to": 60000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Аналитик",
+        "url": "https://dolgoprudniy.superjob.ru/vakansii/analitik-45733204.html",
+        "experience": "От 3 лет",
+        "payment_from": 150000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Инженер-программист",
+        "url": "https://www.superjob.ru/vakansii/inzhener-programmist-45842848.html",
+        "experience": "От 3 лет",
+        "payment_from": 100000,
+        "payment_to": 150000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Педагог дополнительного образования (цифровые технологии, информатика) в ЦЦО IT-куб",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-32399377.html",
+        "experience": "Без опыта",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Преподаватель IT дисциплин / Мастер ПО (Направление IT)",
+        "url": "https://www.superjob.ru/vakansii/prepodavatel-it-disciplin-45980418.html",
+        "experience": "От 3 лет",
+        "payment_from": 85000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Руководитель группы разработки ПО (Техлид)",
+        "url": "https://krasnoyarsk.superjob.ru/vakansii/rukovoditel-gruppy-razrabotki-po-46277766.html",
+        "experience": "От 3 лет",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Data Scientist",
+        "url": "https://lipetsk.superjob.ru/vakansii/data-scientist-46185194.html",
+        "experience": "От 1 года",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Педагог дополнительного образования в сфере IT",
+        "url": "https://spb.superjob.ru/vakansii/pedagog-dopolnitelnogo-obrazovaniya-v-sfere-it-38107002.html",
+        "experience": "Без опыта",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Python developer middle",
+        "url": "https://ekaterinburg.superjob.ru/vakansii/python-developer-middle-46422354.html",
+        "experience": "От 3 лет",
+        "payment_from": 120000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Учитель информатики, преподаватель информационных технологий",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-34134142.html",
+        "experience": "От 3 лет",
+        "payment_from": 100000,
+        "payment_to": 150000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Инженер-радиоэлектронщик 1 категории",
+        "url": "https://www.superjob.ru/vakansii/inzhener-radioelektronschik-1-kategorii-43148990.html",
+        "experience": "Без опыта",
+        "payment_from": 100000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Преподаватель Информатика и вычислительная техника",
+        "url": "https://spb.superjob.ru/vakansii/prepodavatel-informatika-i-vychislitelnaya-tehnika-43877938.html",
+        "experience": "От 1 года",
+        "payment_from": 60000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Учитель информатики",
+        "url": "https://www.superjob.ru/vakansii/uchitel-informatiki-43168648.html",
+        "experience": "От 3 лет",
+        "payment_from": 100000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Инженер-программист",
+        "url": "https://www.superjob.ru/vakansii/inzhener-programmist-45695694.html",
+        "experience": "От 6 лет",
+        "payment_from": 125000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Ведущий инженер",
+        "url": "https://spb.superjob.ru/vakansii/veduschij-inzhener-46009011.html",
+        "experience": "От 1 года",
+        "payment_from": 60000,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Frontend-разработчик",
+        "url": "https://samara.superjob.ru/vakansii/frontend-razrabotchik-46403585.html",
+        "experience": "От 1 года",
+        "payment_from": 30000,
+        "payment_to": 60000,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "Аналитик отдела продаж",
+        "url": "https://www.superjob.ru/vakansii/analitik-otdela-prodazh-46400350.html",
+        "experience": "От 3 лет",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    },
+    {
+        "website": "SuperJob",
+        "name": "CRM-аналитик",
+        "url": "https://www.superjob.ru/vakansii/crm-analitik-46430970.html",
+        "experience": "От 3 лет",
+        "payment_from": 0,
+        "payment_to": 0,
+        "currency": "rub"
+    }
+]

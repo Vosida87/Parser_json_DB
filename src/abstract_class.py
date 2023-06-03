@@ -13,5 +13,19 @@ class JobCollector(ABC):
         pass
 
 
-class JsonCreator(ABC):
-    pass
+class FileWorker(ABC):
+
+
+    @abstractmethod
+    def add_vacancies(self):
+        pass
+
+
+    @abstractmethod
+    def get_vacancies(self):
+        pass
+
+
+    @abstractmethod
+    def remove_vacancies(self):
+        pass

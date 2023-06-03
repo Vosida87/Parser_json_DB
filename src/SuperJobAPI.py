@@ -9,11 +9,15 @@ class SuperJobAPI(JobCollector):
         self.params = {"count": 25,
                        "keyword": self.query_word,
                        }
-        self.headers = {"X-Api-App-Id": "v3.r.131154844.742728edb5e885278370f9864ac7066bd528c8c4.0c9796d081133d28c763dc0c7bf9742a3f645bc4"}
+        self.__headers = {"X-Api-App-Id": "v3.r.131154844.742728edb5e885278370f9864ac7066bd528c8c4.0c9796d081133d28c763dc0c7bf9742a3f645bc4"}
         self.vacancies = []
 
+    @property
+    def headers(self):
+        return f'{self.__headers}'
+
     def get_request(self):
-        response = requests.get(self.url, params=self.params, headers=self.headers)
+        response = requests.get(self.url, params=self.params, headers=self.__headers)
         json_response = response.json()['objects']
         # json_info = json.dumps(json_response, indent=2, ensure_ascii=False)
         for vacancy in json_response:
@@ -34,9 +38,3 @@ class SuperJobAPI(JobCollector):
             }
             formatted_vacancies.append(formatted_vacancy)
         return formatted_vacancies
-
-
-sj = SuperJobAPI("Python")
-sj.get_request()
-print(sj.formate_info())
-

@@ -40,8 +40,3 @@ class HeadHunterAPI(JobCollector):
                 formatted_vacancy['currency'] = None
             formatted_vacancies.append(formatted_vacancy)
         return formatted_vacancies
-
-
-hh = HeadHunterAPI("Python")
-hh.get_request()
-print(hh.formate_info())

@@ -1,4 +1,7 @@
 class Vacancy:
+
+    all = []
+
     def __init__(self, vacancy):
         self.website = vacancy['website']
         self.name = vacancy['name']
@@ -16,3 +19,5 @@ class Vacancy:
                      'payment_to': self.payment_to,
                      'currency': self.currency,
                      }
+
+        Vacancy.all.append(self.data)
